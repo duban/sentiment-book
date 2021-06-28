@@ -1,0 +1,15 @@
+# IntelliJ IDE
+.idea/
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+
+# Python cached
+__pycache__/
+.pytest_cache
+
+# logs
+*.log
+
